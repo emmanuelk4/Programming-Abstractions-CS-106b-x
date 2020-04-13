@@ -1,7 +1,7 @@
 /*
 *Name: Murage Kibicho
 *Exercise: sum of N odd integers
-*Question: 3
+*Question: 4
 *
 */
 #include <iostream>
