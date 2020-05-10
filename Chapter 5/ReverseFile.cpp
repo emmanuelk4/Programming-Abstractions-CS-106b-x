@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "vector.h"
+#include <vector>
 using namespace std;
 
 //function prototype
